@@ -50,7 +50,7 @@ public class Solution {
 ```
 
 #### Comment:
-More optimal code, cost one cycle.
+More optimal code, more aesthetically pleasing.
 
 
 ### Task 8kyu:
